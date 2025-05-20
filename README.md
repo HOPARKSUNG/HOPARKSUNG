@@ -1,10 +1,8 @@
 <table>
   <tr>
-    <td valign="top" width="130">
-      <img src="https://github.com/user-attachments/assets/04161fbd-2a3e-4251-ad2f-504456bce42c" alt="박성호 프로필 사진" width="180"/>
-    </td>
+    <td valign="top" width="100"> <img src="https://github.com/user-attachments/assets/04161fbd-2a3e-4251-ad2f-504456bce42c" alt="박성호 프로필 사진" width="100"/> </td>
     <td valign="top" style="padding-left: 20px;">
-      <h1>박성호 (HOPARKSUNG)</h1>
+      <h3>박성호 (HOPARKSUNG)</h3>
       <p>
         생각하고🙆‍♂️, 즐기고🎮, 감사하자👏
       </p>
@@ -18,29 +16,29 @@
 
 ---
 
-## 🚀 경력 (Career)
+### 🚀 경력 (Career)
 
-### **아이크래프트 (주)** (2023.08 - )
+#### **아이크래프트 (주)** (2023.08 - )
 
 * AI 사업부문 클라우드사업본부 **컨설팅팀 매니저**
   * [iCRAFT / DataSONA](https://datasona.co.kr/)
 
 ---
 
-## 📚 교육 활동 (Activities)
+### 📚 교육 활동 (Activities)
 
-### **OSSCA 오픈소스 컨트리뷰션** (2025.04 - 2025.05)
+#### **OSSCA 오픈소스 컨트리뷰션** (2025.04 - 2025.05)
 
 * 체험형-1차 : PR-Agent
   * [오픈소스 컨트리뷰션 아카데미](https://www.contribution.ac/)
 
-### **카카오 클라우드 스쿨 2기** (2022.10 - 2023.05)
+#### **카카오 클라우드 스쿨 2기** (2022.10 - 2023.05)
 
 * [엔지니어반 수료](https://www.kakaocorp.com/page/detail/9794)
 
 ---
 
-## 🎓 학력 (Education)
+### 🎓 학력 (Education)
 
 * **한국외국어대학교** (2013.03 - 2023.08)
   * [컴퓨터공학과](https://www.hufs.ac.kr/hufs/11246/subview.do)
@@ -50,20 +48,20 @@
 
 ---
 
-## 💻 개인 공부 & 취미 (Personal Study & Play)
+### 💻 개인 공부 & 취미 (Personal Study & Play)
 
 * [Notion](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347?pvs=4)
 * [YouTube](https://www.youtube.com/@sunghothegamebird)
 * [SoundCloud](https://soundcloud.com/hoparksung)
 ---
 
-## 🌱 학습 중 (Currently Learning)
+### 🌱 학습 중 (Currently Learning)
 
 * [PR-Agent (AI Code Review Tools)](https://github.com/qodo-ai/pr-agent)
 
 ---
 
-## 🛠️ 기술 스택 (Tech Stack)
+### 🛠️ 기술 스택 (Tech Stack)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Infrastructure-5A6772?style=for-the-badge" alt="Infrastructure">
