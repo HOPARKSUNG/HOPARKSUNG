@@ -4,11 +4,12 @@
     <td valign="top" style="padding-left: 20px;">
       <h4>박성호 (HOPARKSUNG)</h4>
       <p>
-        생각하고🙆‍♂️, 즐기고🎮, 감사하자👏
+        🎤, 🎧, 🎮, 🎓, 🙆‍♂️, 👏
       </p>
-      <p>
-        <a href="mailto:gozah@naver.com"><img src="https://img.shields.io/badge/Email-gozah@naver.com-green?style=flat-square&logo=naver" alt="Email gozah@naver.com"/></a> 
-        <a href="mailto:shpark@icraft21.com"><img src="https://img.shields.io/badge/Email-shpark@icraft21.com-blue?style=flat-square&logo=gmail" alt="Email shpark@icraft21.com"/></a> 
+      <p style="display: flex; align-items: center; gap: 6px;">
+        <a href="mailto:gozah@naver.com">
+          <img src="https://img.shields.io/badge/Email-gozah@naver.com-green?style=flat-square&logo=naver" alt="Email gozah@naver.com"/>
+        </a> 
       </p>
     </td>
   </tr>
@@ -23,10 +24,9 @@
 
 #### 📚 교육 활동 (Activities)
 * **OSSCA 오픈소스 컨트리뷰션** (2025.04 - 2025.05)
-    * 체험형-1차 : PR-Agent
-    * [오픈소스 컨트리뷰션 아카데미](https://www.contribution.ac/)
+    * [PR-Agent 3조](https://sunghothegamebird.notion.site/PR-Agnet-3-sPRinter-1d92ec95ce928080a5abeb2e03b5247d?pvs=4)
 * **카카오 클라우드 스쿨 2기** (2022.10 - 2023.05)
-    * [엔지니어반 수료](https://www.kakaocorp.com/page/detail/9794)
+    * [엔지니어반 우수상 수료](https://youtu.be/ISuKO2eexTE?si=ocwQi6TiFlOOOdiL)
 
 #### 🎓 학력 (Education)
 * **한국외국어대학교** (2013.03 - 2023.08)
