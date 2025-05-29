@@ -7,9 +7,9 @@
       <h3><strong>박성호 (HOPARKSUNG)</strong> | System Engineer 🚀</h3>
       <p><i>"AI 시대에 함께 공존하는 엔지니어, 박성호입니다 :)"</i></p>
       <ul style="list-style-type: none; padding-left: 0; margin-top: 10px; line-height: 1.7;">
-        <li>🎮 <strong>Gamer's Logic :</strong> 다섯살 때부터 나는 Game을 했어, 파고들지</li>
-        <li>🎧 <strong>Life Spectrum :</strong> 음악부터 여러 장르와 IT, 탐색하지</li>
-        <li>🎓 <strong>Growth Mind :</strong> 허나 나난 걸 접고서 공부를 했어, 서른이었지</li>
+        <li>🎮 <strong>Gamer's Logic :</strong> 다섯 살 때부터 레트로 게임을 접하며 자라왔습니다</li>
+        <li>🎧 <strong>Life Spectrum :</strong> 음악부터 자연, 삶 자체에 관심이 많으며</li>
+        <li>🎓 <strong>Growth Mind :</strong> 쏟아지는 IT 신기술, 퇴근 후에도 공부하고 노력합니다</li>
       </ul>
       </td>
   </tr>
@@ -71,5 +71,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOPARKSUNG&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
 [![HOPARKSUNG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HOPARKSUNG&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
