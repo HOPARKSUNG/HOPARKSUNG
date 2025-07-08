@@ -33,7 +33,7 @@
 #### 🎓 학력
 * **한국외국어대학교** (2013.03 - 2023.08)
   * 컴퓨터공학과, 언어인지과학과
-* **양재고등학교** (2009.03 - 2011.02)
+* **양재고등학교** (2009.03 - 2012.02)
 
 #### 💻 개인 공부 & 취미 채널
 * [Notion](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347?pvs=4)
@@ -41,7 +41,7 @@
 
 #### 🌱 학습 중
 * [VictoriaMetrics (TSDB, 시계열DB) ](https://github.com/VictoriaMetrics/VictoriaMetrics)
-* [PR-Agent (AI Code Review Tools)](https://github.com/qodo-ai/pr-agent)
+* [Argoproj](https://github.com/argoproj/argoproj)
 
 ---
 
