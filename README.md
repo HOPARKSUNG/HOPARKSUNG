@@ -23,7 +23,9 @@
       * [DataSONA (시스템 엔지니어)](https://datasona.co.kr/)
 
 #### 📚 교육 활동
-* **OSSCA 오픈소스 컨트리뷰션** (2025.04 - 2025.05)
+* **OSSCA 오픈소스 컨트리뷰션 참여형** (2025.07 - )
+    * Argoproj
+* **OSSCA 오픈소스 컨트리뷰션 체험형** (2025.04 - 2025.05)
     * [PR-Agent 3조 (활동 MVP)](https://sunghothegamebird.notion.site/PR-Agnet-3-sPRinter-1d92ec95ce928080a5abeb2e03b5247d?pvs=4)
 * **카카오 클라우드 스쿨 2기** (2022.10 - 2023.05)
     * [엔지니어반 수료 (우수 프로젝트상)](https://youtu.be/ISuKO2eexTE?si=ocwQi6TiFlOOOdiL)
