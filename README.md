@@ -19,7 +19,7 @@
 
 #### 🚀 경력
 * **아이크래프트 (주)** (2023.08 - )
-    * AIX 사업부문 NGIN 연구소 **컨설팅팀 매니저**
+    * AIX사업부문 AIX사업본부 NGIN연구소 **컨설팅팀 매니저**
       * [DataSONA (컨설턴트/시스템 엔지니어)](https://datasona.co.kr/)
 
 #### 📚 교육 활동
@@ -40,8 +40,8 @@
 * [YouTube](https://www.youtube.com/@sunghothegamebird)
 
 #### 🌱 학습 중
-* [VictoriaMetrics (TSDB, 시계열DB) ](https://github.com/VictoriaMetrics/VictoriaMetrics)
 * [Argoproj](https://github.com/argoproj/argoproj)
+* [VictoriaMetrics (TSDB, 시계열DB) ](https://github.com/VictoriaMetrics/VictoriaMetrics)
 
 ---
 
