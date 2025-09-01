@@ -17,7 +17,7 @@
 ---
 
 #### 💻 Work Experience
-* **아이크래프트(iCRAFT)** (2023.08 - )
+* **아이크래프트(iCRAFT)** (2023.08 - 2025.09)
     * AIX사업부문 AIX사업본부 NGIN연구소 **컨설팅팀 매니저**
       * [DataSONA (System Engineer)](https://datasona.co.kr/)
       * Naver Cloud & KT Cloud MSP (Cloud Consultant)
