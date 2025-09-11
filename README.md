@@ -17,9 +17,13 @@
 ---
 
 #### 💻 Work Experience
+* **브이에이게임즈(VAGAMES)** (2025.09 - )
+    * 개발 본부 **시스템 엔지니어 (System Engineer)**
+      * 아우터플레인 자체 서비스 이관/구축
+
 * **아이크래프트(iCRAFT)** (2023.08 - 2025.09)
     * AIX사업부문 AIX사업본부 NGIN연구소 **컨설팅팀 매니저**
-      * [DataSONA (System Engineer)](https://datasona.co.kr/)
+      * [DataSONA (Engineer)](https://datasona.co.kr/)
       * Naver Cloud & KT Cloud MSP (Cloud Consultant)
 
 ---
