@@ -77,4 +77,4 @@
 
 ---
 
-[![HOPARKSUNG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HOPARKSUNG&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![HOPARKSUNG's GitHub Stats](https://github-readme-stats-ten-kohl-slt61qib3m.vercel.app/api?username=HOPARKSUNG&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)](https://github.com/HOPARKSUNG)
