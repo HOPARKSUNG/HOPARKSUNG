@@ -1,18 +1,3 @@
-<table>
-  <tr>
-    <td valign="middle" width="134">
-      <img src="https://github.com/user-attachments/assets/bec1e4d0-1fa4-4ea7-9a90-a969da98b922" alt="박성호 프로필 사진" width="134" style="border-radius: 10%; display: block;"/>
-    </td>
-    <td valign="middle" style="padding-left: 20px;">
-      <h3><strong>박성호(Sungho Park)</strong> | Consultant/System Engineer</h3>
-      <ul style="list-style-type: none; padding-left: 0; margin-top: 10px; line-height: 1.7;">
-        <li>🎮 <strong>Gamer's Logic</strong> 다섯 살 때부터 고전 게임을 접하며 자라왔습니다</li>
-        <li>🎧 <strong>Life Spectrum</strong> 음악부터 자연, 스트레스 없는 삶을 추구하며</li>
-        <li>🎓 <strong>Growth Mind</strong> 쏟아지는 IT, 퇴근 후에도 공부하고 노력합니다</li>
-      </ul>
-      </td>
-  </tr>
-</table>
 
 ---
 
