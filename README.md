@@ -29,7 +29,6 @@
 ---
 
 #### 🔗 More About Me
-* [YouTube](https://www.youtube.com/@sunghothegamebird)
 * [Notion](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347)
 
 ---
