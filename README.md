@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Role-DevOps_/_System_Engineer-red?style=flat-square&logoColor=white" alt="Role">
   <img src="https://img.shields.io/badge/Specialty-Public_/_Private_Cloud_Architecture-orange?style=flat-square&logo=amazonaws&logoColor=white" alt="Specialty">
+  <br>
   <img src="https://img.shields.io/badge/Cost_Optimization-30%25_Reduction-green?style=flat-square&logoColor=white" alt="Cost Optimization">
   <img src="https://img.shields.io/badge/System_Pipeline-+300%25_Efficiency-blue?style=flat-square&logoColor=white" alt="System Pipeline">
 </p>
