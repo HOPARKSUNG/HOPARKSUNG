@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4JhkI/giphy.gif" width="28"> Hello :) I'm HOPARKSUNG
+### Hello :) I'm Sungho Park
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-DevOps_/_System_Engineer-red?style=flat-square&logoColor=white" alt="Role">
@@ -19,12 +19,12 @@
 #### 💻 Work Experience
 * **브이에이게임즈(VAGAMES)** (2025.09 - )
     * 개발 본부 **시스템 엔지니어 (System Engineer)**
-      * [아우터플레인 라이브 서비스 운영, Cloud Architecture 신규 구축](https://outerplane.vagames.kr/)
+      * [Outerplane: End-to-End Cloud Architecture & Live Service Operations](https://outerplane.vagames.kr/)
 
 * **아이크래프트(iCRAFT)** (2023.08 - 2025.09)
     * AIX사업부문 AIX사업본부 NGIN연구소 **컨설팅팀 매니저**
       * [DataSONA (Engineer)](https://datasona.co.kr/)
-      * Naver Cloud & KT Cloud MSP (Cloud Consultant)
+      * [B2G & B2B Cloud MSP (Naver · KT)](https://www.ncloud.com/v2/)
 
 ---
 #### 🎓 Education
@@ -44,34 +44,49 @@
 ---
 
 #### 🔗 More About Me
-* [Notion](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347)
+* 📝 [**Notion**](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347)
+* 📺 [**YouTube**](https://www.youtube.com/@sunghothegamebird)
 
 ---
 
-#### 🛠️ Skills
+#### Skills
+
+**Cloud & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/On--Premise-333333?style=flat-square&logo=serverfault&logoColor=white" alt="On-Premise">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Cloud">
   <img src="https://img.shields.io/badge/KT%20Cloud-ED1C24?style=flat-square&logo=kt&logoColor=white" alt="KT Cloud">
-  <br>
+</p>
+
+**DevOps & Platform**
+<p align="left">
   <img src="https://img.shields.io/badge/DevOps-5A6772?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps">
   <img src="https://img.shields.io/badge/Network-4E83C3?style=flat-square&logo=serverfault&logoColor=white" alt="Network">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Automation-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Automation">
-  <br>
+</p>
+
+**Monitoring & Data Analysis**
+<p align="left">
   <img src="https://img.shields.io/badge/Monitoring-7E4F98?style=flat-square&logo=looker&logoColor=white" alt="Monitoring">
   <img src="https://img.shields.io/badge/Troubleshooting-D22B2B?style=flat-square" alt="Troubleshooting">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Apache Hadoop">
   <img src="https://img.shields.io/badge/Hadoop%20Eco-FFD700?style=flat-square&logo=apache&logoColor=black" alt="Hadoop Eco">
-  <br>
+</p>
+
+**Development & IaC**
+<p align="left">
   <img src="https://img.shields.io/badge/Infrastructure%20As%20Code-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="Infrastructure As Code">
   <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Script">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <br>
+</p>
+
+**Database & Operations**
+<p align="left">
   <img src="https://img.shields.io/badge/SQL-003545?style=flat-square&logo=mariadb&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
   <img src="https://img.shields.io/badge/Game%20Operations-8A2BE2?style=flat-square" alt="Game Operations">
