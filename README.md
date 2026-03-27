@@ -4,7 +4,7 @@
 #### 💻 Work Experience
 * **브이에이게임즈(VAGAMES)** (2025.09 - )
     * 개발 본부 **시스템 엔지니어 (System Engineer)**
-      * [아우터플레인 라이브 서비스 이관&운영, Cloud Architecture 신규 구축](https://outerplane.vagames.kr/)
+      * [아우터플레인 라이브 서비스 운영, Cloud Architecture 신규 구축](https://outerplane.vagames.kr/)
 
 * **아이크래프트(iCRAFT)** (2023.08 - 2025.09)
     * AIX사업부문 AIX사업본부 NGIN연구소 **컨설팅팀 매니저**
@@ -36,28 +36,33 @@
 #### 🛠️ Skills
 <p align="left">
   <img src="https://img.shields.io/badge/On--Premise-333333?style=for-the-badge&logo=serverfault&logoColor=white" alt="On-Premise">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Cloud">
   <img src="https://img.shields.io/badge/KT%20Cloud-ED1C24?style=for-the-badge&logo=kt&logoColor=white" alt="KT Cloud">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/DevOps-5A6772?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps">
   <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/DevOps-5A6772?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps">
   <img src="https://img.shields.io/badge/Network-4E83C3?style=for-the-badge&logo=serverfault&logoColor=white" alt="Network">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Monitoring-7E4F98?style=for-the-badge&logo=looker&logoColor=white" alt="Monitoring">
+  <img src="https://img.shields.io/badge/Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Automation">
   <br>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Monitoring-7E4F98?style=for-the-badge&logo=looker&logoColor=white" alt="Monitoring">
+  <img src="https://img.shields.io/badge/Troubleshooting-D22B2B?style=for-the-badge" alt="Troubleshooting">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop">
-  <img src="https://img.shields.io/badge/Hadoop%20Ecosystem-FFD700?style=for-the-badge&logo=apache&logoColor=black" alt="Hadoop ecosystem">
+  <img src="https://img.shields.io/badge/Hadoop%20Eco-FFD700?style=for-the-badge&logo=apache&logoColor=black" alt="Hadoop Eco">
   <br>
   <img src="https://img.shields.io/badge/Infrastructure%20As%20Code-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="Infrastructure As Code">
   <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <br>
   <img src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL">
+  <img src="https://img.shields.io/badge/Game%20Operations-8A2BE2?style=for-the-badge" alt="Game Operations">
+  <img src="https://img.shields.io/badge/Bot%20Mitigation-FF2A2A?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Bot Mitigation">
 </p>
+
 
 ---
 
