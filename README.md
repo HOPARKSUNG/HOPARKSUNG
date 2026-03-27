@@ -1,3 +1,17 @@
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4JhkI/giphy.gif" width="28"> Hello :) I'm HOPARKSUNG
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-DevOps_/_System_Engineer-red?style=flat-square&logoColor=white" alt="Role">
+  <img src="https://img.shields.io/badge/Specialty-Public_/_Private_Cloud_Architecture-orange?style=flat-square&logo=amazonaws&logoColor=white" alt="Specialty">
+  <img src="https://img.shields.io/badge/Cost_Optimization-30%25_Reduction-green?style=flat-square&logoColor=white" alt="Cost Optimization">
+  <img src="https://img.shields.io/badge/System_Pipeline-+300%25_Efficiency-blue?style=flat-square&logoColor=white" alt="System Pipeline">
+</p>
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=2563EB&background=2C2E3B00&center=false&vCenter=false&width=600&lines=Architecting+AWS+Game+Infrastructure;Bot+Mitigation+Coding+%26+Automation;Cloud+Cost+Reduction+%26+Optimization;B2B+Public+%26+Private+Cloud+Projects;Troubleshooting+%26+Open+Source+Integration" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -35,34 +49,33 @@
 
 #### 🛠️ Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/On--Premise-333333?style=for-the-badge&logo=serverfault&logoColor=white" alt="On-Premise">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Cloud">
-  <img src="https://img.shields.io/badge/KT%20Cloud-ED1C24?style=for-the-badge&logo=kt&logoColor=white" alt="KT Cloud">
+  <img src="https://img.shields.io/badge/On--Premise-333333?style=flat-square&logo=serverfault&logoColor=white" alt="On-Premise">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Cloud">
+  <img src="https://img.shields.io/badge/KT%20Cloud-ED1C24?style=flat-square&logo=kt&logoColor=white" alt="KT Cloud">
   <br>
-  <img src="https://img.shields.io/badge/DevOps-5A6772?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps">
-  <img src="https://img.shields.io/badge/Network-4E83C3?style=for-the-badge&logo=serverfault&logoColor=white" alt="Network">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Automation">
+  <img src="https://img.shields.io/badge/DevOps-5A6772?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps">
+  <img src="https://img.shields.io/badge/Network-4E83C3?style=flat-square&logo=serverfault&logoColor=white" alt="Network">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Automation-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Automation">
   <br>
-  <img src="https://img.shields.io/badge/Monitoring-7E4F98?style=for-the-badge&logo=looker&logoColor=white" alt="Monitoring">
-  <img src="https://img.shields.io/badge/Troubleshooting-D22B2B?style=for-the-badge" alt="Troubleshooting">
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop">
-  <img src="https://img.shields.io/badge/Hadoop%20Eco-FFD700?style=for-the-badge&logo=apache&logoColor=black" alt="Hadoop Eco">
+  <img src="https://img.shields.io/badge/Monitoring-7E4F98?style=flat-square&logo=looker&logoColor=white" alt="Monitoring">
+  <img src="https://img.shields.io/badge/Troubleshooting-D22B2B?style=flat-square" alt="Troubleshooting">
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Apache Hadoop">
+  <img src="https://img.shields.io/badge/Hadoop%20Eco-FFD700?style=flat-square&logo=apache&logoColor=black" alt="Hadoop Eco">
   <br>
-  <img src="https://img.shields.io/badge/Infrastructure%20As%20Code-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="Infrastructure As Code">
-  <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Infrastructure%20As%20Code-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="Infrastructure As Code">
+  <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <br>
-  <img src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL">
-  <img src="https://img.shields.io/badge/Game%20Operations-8A2BE2?style=for-the-badge" alt="Game Operations">
-  <img src="https://img.shields.io/badge/Bot%20Mitigation-FF2A2A?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Bot Mitigation">
+  <img src="https://img.shields.io/badge/SQL-003545?style=flat-square&logo=mariadb&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
+  <img src="https://img.shields.io/badge/Game%20Operations-8A2BE2?style=flat-square" alt="Game Operations">
+  <img src="https://img.shields.io/badge/Bot%20Mitigation-FF2A2A?style=flat-square&logo=cloudflare&logoColor=white" alt="Bot Mitigation">
 </p>
-
 
 ---
 
