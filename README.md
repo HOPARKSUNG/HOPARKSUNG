@@ -1,4 +1,4 @@
-### Hello :) I'm Sungho Park
+# Hello, I'm Sungho Park
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-DevOps_/_System_Engineer-red?style=flat-square&logoColor=white" alt="Role">
@@ -14,42 +14,57 @@
   </a>
 </p>
 
----
+## About
 
-#### 💻 Work Experience
-* **브이에이게임즈(VAGAMES)** (2025.09 - )
-    * 개발 본부 **시스템 엔지니어 (System Engineer)**
-      * [Outerplane: End-to-End Cloud Architecture & Live Service Operations](https://outerplane.vagames.kr/)
+**DevOps / System Engineer** focused on cloud infrastructure, live service operations, observability, and automation.
 
-* **아이크래프트(iCRAFT)** (2023.08 - 2025.09)
-    * AIX사업부문 AIX사업본부 NGIN연구소 **컨설팅팀 매니저**
-      * [DataSONA (Engineer)](https://datasona.co.kr/)
-      * [B2G & B2B Cloud MSP (Naver · KT)](https://www.ncloud.com/v2/)
+I have nearly **3 years** of experience across **Cloud MSP**, **data platform infrastructure**, and **AWS-based live game service operations**.
 
----
-#### 🎓 Education
-* **한국외국어대학교(HUFS)** (2013.03 - 2023.08)
-  * 컴퓨터공학과, 언어인지과학과
-* **양재고등학교** (2009.03 - 2012.02)
-
----
-#### 📚 Technical Activities
-* **OSSCA 오픈소스 컨트리뷰션 참여형** (2025.07 - 2025.09)
-    * [Argoproj](https://sunghothegamebird.notion.site/Argoproj-2262ec95ce92800bbf71ebb539b7f061)
-* **OSSCA 오픈소스 컨트리뷰션 체험형** (2025.04 - 2025.05)
-    * [PR-Agent 3조 (활동 MVP)](https://sunghothegamebird.notion.site/PR-Agnet-1d92ec95ce928080a5abeb2e03b5247d)
-* **카카오 클라우드 스쿨 2기** (2022.10 - 2023.05)
-    * [엔지니어반 수료 (우수 프로젝트)](https://sunghothegamebird.notion.site/e5004a81cd4140ff81f6a05952b2768b)
+Currently operating **AWS-based global game infrastructure** at **VAGAMES**.  
+Previously worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, KT Cloud, and on-premise environments**.
 
 ---
 
-#### 🔗 More About Me
-* 📝 [**Notion**](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347)
-* 📺 [**YouTube**](https://www.youtube.com/@sunghothegamebird)
+## Career Highlights
+
+- **2+ years of B2B/B2G Cloud MSP experience** across Naver Cloud, KT Cloud, and on-premise environments
+- Customer-facing infrastructure delivery in cloud migration, data platform, and monitoring projects
+- AWS-based live game service infrastructure operation for a global mobile game
+- Multi-region infrastructure operation across **Seoul / Tokyo / Oregon**
+- Cloud cost optimization: approximately **30% reduction**
+- Observability and automation: API latency **385ms -> 192ms**, incident detection **within 1 minute**
 
 ---
 
-#### Skills
+## Work Experience
+
+### VAGAMES | System Engineer
+`2025.09 - Present`
+
+Operating AWS-based live service infrastructure for the global mobile game **Outerplane**.
+
+- Redesigned and operated multi-region game infrastructure across **Seoul / Tokyo / Oregon**
+- Built **VPN / Bastion / IAM-based** access control and **CloudWatch-based alert** automation
+- Analyzed RDS performance bottlenecks and provided data-driven optimization guidance to the server team
+- Developed Python-based bot traffic detection and **ALB/NACL** blocking automation
+- Achieved approximately **30% cloud cost reduction** and reduced incident detection time to **within 1 minute**
+
+<br>
+
+### iCRAFT | Cloud Consultant / Platform Engineer
+`2023.08 - 2025.09`
+
+Worked on B2B/B2G Cloud MSP projects, data platform infrastructure, and cloud migration.
+
+- Built infrastructure on **Naver Cloud, KT Cloud, and on-premise environments**
+- Designed data workflows with **Airflow, NiFi, Hadoop, Hive, Trino, MariaDB, and MongoDB**
+- Implemented monitoring dashboards and alerting systems with **Prometheus and Grafana**
+- Delivered customer-facing **cloud migration support**, technical documentation, and infrastructure handover
+- Improved batch processing performance by approximately **300%**
+
+---
+
+## Skills
 
 **Cloud & Infrastructure**
 <p align="left">
@@ -94,5 +109,38 @@
 </p>
 
 ---
+
+<details>
+<summary><strong>&gt; Technical Activities &lt;</strong></summary>
+
+<br>
+
+- **OSSCA Advanced Track** `2025.07 - 2025.09` — [Argoproj](https://sunghothegamebird.notion.site/Argoproj-2262ec95ce92800bbf71ebb539b7f061)
+- **OSSCA Beginner Track** `2025.04 - 2025.05` — [PR-Agent Team 3, MVP Activity](https://sunghothegamebird.notion.site/PR-Agnet-1d92ec95ce928080a5abeb2e03b5247d)
+- **Kakao Cloud School 2nd** `2022.10 - 2023.05` — [Cloud Engineer Track, Excellent Project](https://sunghothegamebird.notion.site/e5004a81cd4140ff81f6a05952b2768b)
+
+</details>
+
+<details>
+<summary><strong>&gt; Education &lt;</strong></summary>
+
+<br>
+
+**Hankuk University of Foreign Studies**  
+`2013 - 2023`  
+Computer Engineering / Language & Cognitive Science
+
+</details>
+
+---
+
+## More About Me
+
+- [Notion Portfolio](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347)
+- [YouTube](https://www.youtube.com/@sunghothegamebird)
+
+---
+
+## GitHub Stats
 
 [![HOPARKSUNG's GitHub Stats](https://github-readme-stats-ten-kohl-slt61qib3m.vercel.app/api?username=HOPARKSUNG&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)](https://github.com/HOPARKSUNG)
