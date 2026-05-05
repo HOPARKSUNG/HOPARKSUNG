@@ -25,17 +25,6 @@ Previously worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, 
 
 ---
 
-## Career Highlights
-
-- **2+ years of B2B/B2G Cloud MSP experience** across Naver Cloud, KT Cloud, and on-premise environments
-- Customer-facing infrastructure delivery in cloud migration, data platform, and monitoring projects
-- AWS-based live game service infrastructure operation for a global mobile game
-- Multi-region infrastructure operation across **Seoul / Tokyo / Oregon**
-- Cloud cost optimization: approximately **30% reduction**
-- Observability and automation: API latency **385ms -> 192ms**, incident detection **within 1 minute**
-
----
-
 ## Work Experience
 
 ### VAGAMES | System Engineer
@@ -43,24 +32,11 @@ Previously worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, 
 
 Operating AWS-based live service infrastructure for the global mobile game **Outerplane**.
 
-- Redesigned and operated multi-region game infrastructure across **Seoul / Tokyo / Oregon**
-- Built **VPN / Bastion / IAM-based** access control and **CloudWatch-based alert** automation
-- Analyzed RDS performance bottlenecks and provided data-driven optimization guidance to the server team
-- Developed Python-based bot traffic detection and **ALB/NACL** blocking automation
-- Achieved approximately **30% cloud cost reduction** and reduced incident detection time to **within 1 minute**
-
-<br>
 
 ### iCRAFT | Cloud Consultant / Platform Engineer
 `2023.08 - 2025.09`
 
-Worked on B2B/B2G Cloud MSP projects, data platform infrastructure, and cloud migration.
-
-- Built infrastructure on **Naver Cloud, KT Cloud, and on-premise environments**
-- Designed data workflows with **Airflow, NiFi, Hadoop, Hive, Trino, MariaDB, and MongoDB**
-- Implemented monitoring dashboards and alerting systems with **Prometheus and Grafana**
-- Delivered customer-facing **cloud migration support**, technical documentation, and infrastructure handover
-- Improved batch processing performance by approximately **300%**
+Worked on **B2B/B2G** Cloud MSP projects, data platform infrastructure, and cloud migration.
 
 ---
 
