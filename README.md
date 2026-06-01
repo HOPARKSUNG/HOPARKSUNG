@@ -42,6 +42,12 @@ Worked on **B2B/B2G** Cloud MSP projects, data platform infrastructure, and clou
 
 ## Skills
 
+<!-- Skills 섹션을 details 태그로 감싸 토글 형태로 변경했습니다. -->
+<details>
+<summary><strong>&gt; Tech Stack &lt;</strong></summary>
+
+<br>
+
 **Cloud & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/On--Premise-333333?style=flat-square&logo=serverfault&logoColor=white" alt="On-Premise">
@@ -83,6 +89,8 @@ Worked on **B2B/B2G** Cloud MSP projects, data platform infrastructure, and clou
   <img src="https://img.shields.io/badge/Game%20Operations-8A2BE2?style=flat-square" alt="Game Operations">
   <img src="https://img.shields.io/badge/Bot%20Mitigation-FF2A2A?style=flat-square&logo=cloudflare&logoColor=white" alt="Bot Mitigation">
 </p>
+
+</details>
 
 ---
 
