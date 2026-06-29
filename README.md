@@ -1,19 +1,5 @@
 # Hello, I'm Sungho Park
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-DevOps_/_System_Engineer-red?style=flat-square&logoColor=white" alt="Role">
-  <img src="https://img.shields.io/badge/Specialty-Public_/_Private_Cloud_Architecture-orange?style=flat-square&logo=amazonaws&logoColor=white" alt="Specialty">
-  <br>
-  <img src="https://img.shields.io/badge/Cost_Optimization-30%25_Reduction-green?style=flat-square&logoColor=white" alt="Cost Optimization">
-  <img src="https://img.shields.io/badge/System_Pipeline-+300%25_Efficiency-blue?style=flat-square&logoColor=white" alt="System Pipeline">
-</p>
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=2563EB&background=2C2E3B00&center=false&vCenter=false&width=600&lines=Architecting+AWS+Game+Infrastructure;Bot+Mitigation+Coding+%26+Automation;Cloud+Cost+Reduction+%26+Optimization;B2B+Public+%26+Private+Cloud+Projects;Troubleshooting+%26+Open+Source+Integration" alt="Typing SVG" />
-  </a>
-</p>
-
 ## About
 
 **DevOps / System Engineer** focused on cloud infrastructure, live service operations, observability, and automation.
