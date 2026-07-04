@@ -14,7 +14,7 @@ Previously worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, 
 ## Work Experience
 
 ### VAGAMES | System Engineer
-`2025.09 - Present`
+`2025.09 - 2026.06`
 
 Operating AWS-based live service infrastructure for the global mobile game **Outerplane**.
 
