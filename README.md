@@ -1,19 +1,17 @@
 # Hello, I'm Sungho Park
 
-## About
+---
 
-**DevOps / System Engineer** focused on cloud infrastructure, live service operations, observability, and automation.
+**Cloud Platform / DevOps Engineer** focused on cloud infrastructure, live game service operations, observability, and automation.
 
-I have nearly **3 years** of experience across **Cloud MSP**, **data platform infrastructure**, and **AWS-based live game service operations**.
+I have nearly **3 years** of experience across **Cloud MSP**, **Data Platform infrastructure**, and **AWS-based live game service operations**.
 
 Currently operating **AWS-based global game infrastructure** at **VAGAMES**.  
-Previously worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, KT Cloud, and on-premise environments**.
+Previously worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, KT Cloud, and On-premises environments**.
 
 ---
 
-## Work Experience
-
-### VAGAMES | System Engineer
+### VAGAMES | DevOps Engineer
 `2025.09 - 2026.06`
 
 Operating AWS-based live service infrastructure for the global mobile game **Outerplane**.
@@ -26,9 +24,6 @@ Worked on **B2B/B2G** Cloud MSP projects, data platform infrastructure, and clou
 
 ---
 
-## Skills
-
-<!-- Skills 섹션을 details 태그로 감싸 토글 형태로 변경했습니다. -->
 <details>
 <summary><strong>&gt; Tech Stack &lt;</strong></summary>
 
@@ -85,11 +80,14 @@ Worked on **B2B/B2G** Cloud MSP projects, data platform infrastructure, and clou
 
 <br>
 
+- **OSSAI Agent Study Track** `2026.07 - ` — 
 - **OSSCA Advanced Track** `2025.07 - 2025.09` — [Argoproj](https://sunghothegamebird.notion.site/Argoproj-2262ec95ce92800bbf71ebb539b7f061)
-- **OSSCA Beginner Track** `2025.04 - 2025.05` — [PR-Agent Team 3, MVP Activity](https://sunghothegamebird.notion.site/PR-Agnet-1d92ec95ce928080a5abeb2e03b5247d)
+- **OSSCA Beginner Track** `2025.04 - 2025.05` — [PR-Agent Team 3, MVP Activity](https://sunghothegamebird.notion.site/PR-Agent-1d92ec95ce928080a5abeb2e03b5247d)
 - **Kakao Cloud School 2nd** `2022.10 - 2023.05` — [Cloud Engineer Track, Excellent Project](https://sunghothegamebird.notion.site/e5004a81cd4140ff81f6a05952b2768b)
 
 </details>
+
+---
 
 <details>
 <summary><strong>&gt; Education &lt;</strong></summary>
@@ -107,10 +105,5 @@ Computer Engineering / Language & Cognitive Science
 ## More About Me
 
 - [Notion Portfolio](https://sunghothegamebird.notion.site/33c89efcaea5408190aa630c883f1347)
-- [YouTube](https://www.youtube.com/@sunghothegamebird)
-
----
-
-## GitHub Stats
 
 [![HOPARKSUNG's GitHub Stats](https://github-readme-stats-ten-kohl-slt61qib3m.vercel.app/api?username=HOPARKSUNG&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)](https://github.com/HOPARKSUNG)
