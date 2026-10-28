@@ -4,12 +4,17 @@
 
 **Cloud Platform / DevOps Engineer** focused on cloud infrastructure, live game service operations, observability, and automation.
 
-I have nearly **3 years** of experience across **Cloud MSP**, **Data Platform infrastructure**, and **AWS-based live game service operations**.
+I have nearly **4 years** of experience across **Cloud MSP**, **Data Platform infrastructure**, and **AWS-based live game service operations**.
 
-Currently operating **AWS-based global game infrastructure** at **VAGAMES**.  
-Previously worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, KT Cloud, and On-premises environments**.
+Previously operating **AWS-based global game infrastructure** at **VAGAMES** & worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, KT Cloud, and On-premises environments**.
 
 ---
+
+### Kakao Games | TechPM
+`2026.11 - `
+
+TPM **-**.
+
 
 ### VAGAMES | DevOps Engineer
 `2025.09 - 2026.06`
