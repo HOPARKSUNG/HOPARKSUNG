@@ -2,18 +2,18 @@
 
 ---
 
-**Cloud Platform / DevOps Engineer** focused on cloud infrastructure, live game service operations, observability, and automation.
+**Cloud Platform / Tech PM & DevOps Engineer** focused on cloud infrastructure, live game service operations, observability, and automation.
 
 I have nearly **4 years** of experience across **Cloud MSP**, **Data Platform infrastructure**, and **AWS-based live game service operations**.
 
-Previously operating **AWS-based global game infrastructure** at **VAGAMES** & worked on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, KT Cloud, and On-premises environments**.
+Currently operating as a **Tech PM** at **Kakao Games**, previously managing **AWS-based global game infrastructure** at **VAGAMES** & working on B2B/B2G cloud projects at **iCRAFT** across **Naver Cloud, KT Cloud, and On-premises environments**.
 
 ---
 
 ### Kakao Games | TechPM
-`2026.11 - `
+`2026.11 - Present`
 
-TPM **-**.
+Technical PM - Driving cloud infrastructure operations, service stability, and cross-functional coordination.
 
 
 ### VAGAMES | DevOps Engineer
@@ -85,7 +85,7 @@ Worked on **B2B/B2G** Cloud MSP projects, data platform infrastructure, and clou
 
 <br>
 
-- **OSSAI Agent Study Track** `2026.07 - ` — 
+- **OSSAI Agent Study Track** `2026.07 - 2026.11`
 - **OSSCA Advanced Track** `2025.07 - 2025.09` — [Argoproj](https://sunghothegamebird.notion.site/Argoproj-2262ec95ce92800bbf71ebb539b7f061)
 - **OSSCA Beginner Track** `2025.04 - 2025.05` — [PR-Agent Team 3, MVP Activity](https://sunghothegamebird.notion.site/PR-Agent-1d92ec95ce928080a5abeb2e03b5247d)
 - **Kakao Cloud School 2nd** `2022.10 - 2023.05` — [Cloud Engineer Track, Excellent Project](https://sunghothegamebird.notion.site/e5004a81cd4140ff81f6a05952b2768b)
